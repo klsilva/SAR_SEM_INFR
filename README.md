@@ -13,4 +13,4 @@ A partir da aplicação dos métodos foram Índice de Moran e o Índice de Moran
 
 Sendo o Índice de Gini a variável resposta e a Proporção da População em Domicílios com Energia Elétrica e a Proporção da População em Domicílios com Coleta de Lixo as variáveis explicativas. 
 
-Verificando-se,assim, que o Índice de Gini se torna melhor conforme o acesso a esses serviços de infraestrutura se tornam universais no estado de Minas Gerais.
+Verificando-se, assim, que o Índice de Gini se torna melhor conforme o acesso a esses serviços de infraestrutura se tornam universais no estado de Minas Gerais.
